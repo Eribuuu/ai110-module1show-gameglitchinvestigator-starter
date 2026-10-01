@@ -1,0 +1,6 @@
+1. After winning a game, Not able to start a new game. The target number changes but doesnt actually let you guess the new number
+2. Hints are in the wrong direction
+3. (Not a full bug) History isnt updated until another guess is inputed, I would like it to instantly change when a guess is entered and processed
+4. New game button does not work, only updates new target number
+5. Ranges for Normal and Hard are flipped
+6. Hitting submit guess without adding a guess allows you to go past the attempts allowed ("" input)
