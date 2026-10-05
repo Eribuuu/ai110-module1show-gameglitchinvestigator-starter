@@ -33,11 +33,15 @@ It wrote the code, ran away, and now the game is unplayable.
 
 Describe your fixed game in numbered steps so a reader can follow along without watching a video:
 
-1. <!-- Describe this step -->
-2. <!-- Describe this step -->
-3. <!-- Describe this step -->
-4. <!-- Describe this step -->
-5. <!-- Add more steps as needed -->
+1. User starts a new game
+2. The secret is selected (in this case its going to be 25)
+3. User guesses 15
+4. Game returns "Too Low"
+5. User guesses 30
+6. Game returns "Too High"
+7. User guesses 15
+8. Game returns "You Win"
+9. User is now able to start a new game
 
 **Screenshot** *(optional)*: <!-- Insert a screenshot of your fixed, winning game here -->
 
